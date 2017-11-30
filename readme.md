@@ -252,9 +252,18 @@ Geen dubbele breaks voor witte regel
 <!-- bad -->
 <p>Dit is een example tekst hier wat lorem ipsum.
 <br><br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla pharetra eu metus sit amet sagittis. Donec nec velit quis diam hendrerit consectetur. Quisque lacinia eu sapien nec interdum. Nullam quis commodo enim. Proin ut feugiat elit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Nulla pharetra eu metus sit amet sagittis.
+Donec nec velit quis diam hendrerit consectetur.
+Quisque lacinia eu sapien nec interdum.
+Nullam quis commodo enim. Proin ut feugiat elit.
 <br><br>
-Vestibulum consectetur erat justo, eget tempor nunc convallis rhoncus. Donec nec purus efficitur, pulvinar libero eu, accumsan odio. Mauris enim lacus, placerat ac lectus id, congue pretium est. Vestibulum porta lobortis dolor, scelerisque varius metus tincidunt at. Sed ornare lacus ultrices consectetur suscipit. Duis vulputate elementum ante, et commodo nibh tempor nec.
+Vestibulum consectetur erat justo, eget tempor nunc convallis rhoncus.
+Donec nec purus efficitur, pulvinar libero eu, accumsan odio.
+Mauris enim lacus, placerat ac lectus id, congue pretium est.
+Vestibulum porta lobortis dolor, scelerisque varius metus tincidunt at.
+Sed ornare lacus ultrices consectetur suscipit.
+Duis vulputate elementum ante, et commodo nibh tempor nec.
 </p>
 
 <!-- good -->
