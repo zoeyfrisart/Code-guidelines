@@ -2,7 +2,6 @@
 Dit bestand bevat alle regels die door ons zijn afgesproken op gebied van code, code quality, testing, oplevering en wijzigingen in de productie versie.
 
 ## Code guidelines
----
 De guidelines die op toepassing zijn op de verschillende code bestanden die wij gebruiken.
 
 ### *JavaScript*
@@ -267,7 +266,6 @@ Vestibulum consectetur erat justo, eget tempor nunc convallis rhoncus. Donec nec
 ```
 
 ## Testing
----
 De guidelines van het testen van code. **Test alle code online op een test server niet local.**
 ### *UI*
 Probeer de code automatisch te testen met [galen framework](http://galenframework.com/).
@@ -295,7 +293,6 @@ Werk deze checklist af bij reviewen van de code.
 
 
 ## Oplevering
----
 Zorg dat alle code getest is zoals hierboven is aangegeven.
 
 ### *Changelog*
